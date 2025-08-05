@@ -1,3 +1,5 @@
+//Stock Market Portfolio App by Sibil Arockian 
+
 const express = require('express')
 const app = express()
 const exphbs = require('express-handlebars');
